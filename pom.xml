@@ -47,7 +47,7 @@
         <dependency>
             <groupId>io.github.vashilk</groupId>
             <artifactId>redis-cache</artifactId>
-            <version>M1.18</version>
+            <version>1.0.6.1-BETA</version>
         </dependency>
 
         <!--        Swagger Dependencies        -->
