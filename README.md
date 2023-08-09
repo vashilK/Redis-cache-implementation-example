@@ -6,3 +6,5 @@ This repository contains code sample to show how Redis-cache works using annotat
 * @CacheSave
 * @CacheRelease
 * @CacheSync
+
+Swagger link: http://localhost:8081/api/swagger-ui/index.html#/
